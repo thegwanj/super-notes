@@ -40,9 +40,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 When launched, the user is met with the home page. From there, they can hit the "Get Started" button to be taken to the notes page. The notes page contains the user's previous notes. They can also create and save a note by filling out the note title and text, then clicking on the save icon that appears in the top right corner. The user can also edit a note by clicking the note on the left side of the page, showing the title and text on the right side. Clicking the plus button on the top right allows the user to create a new note, which they can then save using the same process as before.
 
 ## Links
-Heroku App: 
+Heroku App: https://uw-super-note-taker.herokuapp.com/
 
-GitHub Repo: 
+GitHub Repo: https://github.com/thegwanj/super-notes
 
 ## Issues
 There is a known issue where if the user clicks on one of their notes, it does not populate on the right side to allow for editing. There is also no delete functionality yet.
