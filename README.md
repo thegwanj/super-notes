@@ -5,6 +5,7 @@ Week 11 challenge
 - [Description](#description)
 - [Usage](#usage)
 - [Links](#links)
+- [Issues](#issues)
 
 ## Description 
 Week 11 challenge where we will use our knowledge of Express routes to create an app that can store and retrieve data from a JSON file. The following is the user story and acceptance criteria for the project:
@@ -42,3 +43,6 @@ When launched, the user is met with the home page. From there, they can hit the 
 Heroku App: 
 
 GitHub Repo: 
+
+## Issues
+There is a known issue where if the user clicks on one of their notes, it does not populate on the right side to allow for editing. There is also no delete functionality yet.
